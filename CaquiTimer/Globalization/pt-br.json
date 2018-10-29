@@ -1,0 +1,82 @@
+{
+  "LANGUAGEKEY": "pt-br",
+  "DESCRIPTION": "Português do Brasil",
+  "DEFAULT": false,
+  "ITENS": [
+    {
+      "KEY": "msgError",
+      "VALUE": "Erro desconhecido",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "msgSaved",
+      "VALUE": "Dados salvos",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "msgSaveError",
+      "VALUE": "Erro ao salvar",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Minimize",
+      "VALUE": "Minimizar",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Configuration",
+      "VALUE": "Configuração",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Open",
+      "VALUE": "Abrir",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Close",
+      "VALUE": "Fechar",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Pause",
+      "VALUE": "Pausar",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "NextTask",
+      "VALUE": "Próxima tarefa",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "MsgClose",
+      "VALUE": "Você deseja realmente sair?",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Yes",
+      "VALUE": "Sim",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "No",
+      "VALUE": "Não",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Ok",
+      "VALUE": "Ok",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Cancel",
+      "VALUE": "Cancelar",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "About",
+      "VALUE": "Sobre",
+      "DESCRIPTION": null
+    }
+  ]
+}

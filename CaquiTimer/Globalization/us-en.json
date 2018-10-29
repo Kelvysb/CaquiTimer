@@ -1,0 +1,82 @@
+{
+  "LANGUAGEKEY": "us-en",
+  "DESCRIPTION": "Us. English",
+  "DEFAULT": true,
+  "ITENS": [
+    {
+      "KEY": "msgError",
+      "VALUE": "Unknow error",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "msgSaved",
+      "VALUE": "Saved",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "msgSaveError",
+      "VALUE": "Error saving data",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Minimize",
+      "VALUE": "Minimize",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Configuration",
+      "VALUE": "Configuration",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Open",
+      "VALUE": "Open",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Close",
+      "VALUE": "Close",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Pause",
+      "VALUE": "Pause",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "NextTask",
+      "VALUE": "Next Task",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "MsgClose",
+      "VALUE": "Do you realy want to exit?",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Yes",
+      "VALUE": "Yes",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "No",
+      "VALUE": "No",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Ok",
+      "VALUE": "Ok",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "Cancel",
+      "VALUE": "Cancel",
+      "DESCRIPTION": null
+    },
+    {
+      "KEY": "About",
+      "VALUE": "About",
+      "DESCRIPTION": null
+    }
+  ]
+}
