@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CaquiTimer.Layers.Repository;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -13,6 +14,7 @@ namespace CaquiTimer
         #region Declarations
         private static CaquiTimerBO instance;
         private string strWorkDirectory;
+        private CaquiTimerRep objRepository;
         #endregion
 
         #region Constructor
@@ -25,6 +27,8 @@ namespace CaquiTimer
                 {
                     Directory.CreateDirectory(strWorkDirectory);
                 }
+
+                objRepository = new CaquiTimerRep("Db\\");
 
             }
             catch (Exception)
@@ -57,7 +61,7 @@ namespace CaquiTimer
             }
         }
 
-
+        
 
         #endregion
 

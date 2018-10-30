@@ -30,9 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BDataBase">
-      <HintPath>..\..\BDataBase\Compiled\BDataBase.dll</HintPath>
-    </Reference>
     <Reference Include="BGlobal">
       <HintPath>..\..\BGlobal\Compiled\BGlobal.dll</HintPath>
     </Reference>
@@ -56,6 +53,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Db\caqui.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BDataBase\BDataBase\BDataBase.vbproj">
+      <Project>{3efbcffd-0a19-41b4-a418-5d2ff536bfbf}</Project>
+      <Name>BDataBase</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
